@@ -4,6 +4,26 @@
 
 [todo] verificar todos regulamentos gerais de competição. 1º ler o começo dos regulamentos adultos para saber se existe demanda por RGC antes de ir pesquisar
 
+# BRASIL
+
+| ano |  geral | adulto | sub20 | sub19 | sub18 | sub17 | sub16 | sub15 | sub14 | sub13 | sub12 | 
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| **2013** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2014** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2015** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2016** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2017** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2018** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2019** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2020** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2021** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2022** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2023** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2024** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2025** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2026** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+
+
 # ACRE
 
 No site da Federação, não há documentos de regulamentos para competições anteriores à 2023
@@ -31,3 +51,31 @@ No site da Federação, não há documentos de regulamentos para competições a
 | **2026** | [verificar] | [previsto] | [previsto] | [previsto] | [🗎](files/regulamentos/alagoas/2026_AL_sub15.pdf) |
 
 * * *
+
+
+
+
+
+
+
+# UF
+
+| ano |  geral | adulto | sub20 | sub19 | sub18 | sub17 | sub16 | sub15 | sub14 | sub13 | sub12 | 
+|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
+| **2013** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2014** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2015** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2016** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2017** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2018** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2019** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2020** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2021** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2022** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2023** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2024** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2025** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+| **2026** | ARQG | ARQC | SUB20 | SUB19 | SUB18 | SUB17 | SUB16 | SUB15 | SUB14 | SUB13 | SUB12 |
+
+* * *
+
